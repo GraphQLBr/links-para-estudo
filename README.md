@@ -4,6 +4,7 @@
 ------- | ------ | ---- | ------
 API com GraphQL | Vídeo | Grátis | https://www.youtube.com/watch?v=0WWuJaNSFgk&feature=youtu.be
 Creating A GraphQL Server With Node.js And Express | Artigo | Grátis | https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1
+Criando API'S com Node.js GraphQL, JWT, Sequelize e TS | Vídeo | Pago | https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize
 Full Stack Vue with GraphQL & AWS AppSync | Artigo | Grátis | https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9
 GraphQL: Learning GraphQL with Node.Js | Vídeo | Pago | https://www.udemy.com/learning-graphql-with-nodejs/
 GraphQL para iniciantes | Artigo | Grátis | https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d
