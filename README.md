@@ -9,6 +9,7 @@
 [GraphQL: Learning GraphQL with Node.Js](https://www.udemy.com/learning-graphql-with-nodejs/) | Vídeo | Pago | 🇱🇷
 [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d) | Artigo | Grátis | 🇧🇷
 [Intro to GraphQL and Apollo](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | Vídeo | Grátis | 🇱🇷
+[Introduction to GraphQL](https://graphql.org/learn/) | Documentação Oficial | Grátis | 🇱🇷
 [O GraphQL resolve!](https://medium.com/@zerocowl/graphql-resolve-pt1-72697a655917) | Artigo | Grátis | 🇧🇷
 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) | Artigo e Vídeo | Grátis | 🇱🇷
 [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?v=UBGzsb2UkeY) | Vídeo | Grátis | 🇱🇷
