@@ -6,6 +6,7 @@
 [Aprender sobre GraphQL com Lumen](https://github.com/wouerner/aprender-graphql-lumen)  | Artigo | Grátis | 🇧🇷
 [Creating A GraphQL Server With Node.js And Express](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1) | Artigo | Grátis | 🇱🇷
 [Criando API'S com Node.js GraphQL, JWT, Sequelize e TS](https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize) | Vídeo | Pago | 🇧🇷
+[Criando API'S Modernas com Graphcool e Apollo](https://www.treinaweb.com.br/curso/graphql-criando-apis-modernas-com-graphcool-e-apollo) | Vídeo | Pago | 🇧🇷
 [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9) | Artigo | Grátis | 🇱🇷
 [GraphQL: Learning GraphQL with Node.Js](https://www.udemy.com/learning-graphql-with-nodejs/) | Vídeo | Pago | 🇱🇷
 [GraphQL caching using Dataloader - Fun Fun Function](https://youtu.be/--AguZ20lLA) | Vídeo | Grátis | 🇱🇷
