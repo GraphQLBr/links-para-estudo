@@ -18,7 +18,9 @@
 [More GraphQL - Fun Fun Function](https://youtu.be/RMtq0RCLuzs) | Vídeo | Grátis | 🇱🇷
 [O GraphQL resolve!](https://medium.com/@zerocowl/graphql-resolve-pt1-72697a655917) | Artigo | Grátis | 🇧🇷
 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) | Artigo e Vídeo | Grátis | 🇱🇷
+[Wrapping a REST API in GraphQL](http://graphql.org/blog/rest-api-graphql-wrapper/) | Artigo | Grátis | 🇱🇷
 [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?v=UBGzsb2UkeY) | Vídeo | Grátis | 🇱🇷
+
 
 
 
