@@ -11,6 +11,7 @@
 [GraphQL: Learning GraphQL with Node.Js](https://www.udemy.com/learning-graphql-with-nodejs/) | Vídeo | Pago | 🇱🇷
 [GraphQL caching using Dataloader - Fun Fun Function](https://youtu.be/--AguZ20lLA) | Vídeo | Grátis | 🇱🇷
 [GraphQL Basics - Fun Fun Function](https://youtu.be/lAJWHHUz8_8) | Vídeo | Grátis | 🇱🇷
+[GraphQL Full Course - Novice to Expert](https://youtu.be/ed8SzALpx1Q) | Vídeo | Grátis | 🇱🇷
 [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d) | Artigo | Grátis | 🇧🇷
 [GraphQL vs Rest:Pensando de uma forma inovadora](https://medium.com/@juliocesar_44438/graphql-vs-rest-pensando-de-uma-forma-inovadora-a89c0d514a0d) | Artigo | Grátis | 🇧🇷
 [Intro to GraphQL and Apollo](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | Vídeo | Grátis | 🇱🇷
