@@ -20,13 +20,10 @@
 [O GraphQL resolve!](https://medium.com/@zerocowl/graphql-resolve-pt1-72697a655917) | Artigo | Grátis | 🇧🇷
 [Pain Points of GraphQL](https://labs.getninjas.com.br/pain-points-of-graphql-7e83ba5ddef7) | Artigo | Grátis | 🇱🇷
 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) | Artigo e Vídeo | Grátis | 🇱🇷
+[What Is GraphQL? - LevelUpTuts](https://www.youtube.com/watch?v=VjXb3PRL9WI) | Vídeo | Grátis | 🇱🇷
 [Wrapping a REST API in GraphQL](http://graphql.org/blog/rest-api-graphql-wrapper/) | Artigo | Grátis | 🇱🇷
 [Weekly Newsletter - Best news, Articles, and Projects about GraphQL, Apollo and more](https://graphqlweekly.com/) | Artigo | Grátis | 🇱🇷
 [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?v=UBGzsb2UkeY) | Vídeo | Grátis | 🇱🇷
 
-
-
-
-
-### como contribuir
+### Como contribuir
 Qualquer um pode adicionar links, apenas dando um dando um [Pull Request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/) editando este arquivo. Ao contribuir manter a organização e adicionar novos links por ordem alfabética pelo título.
