@@ -4,18 +4,25 @@
 ## Conteúdos grátis
  Título | Tipo  | Idioma
 ------- | ------  | ------
+[A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/) | Artigo | 🇱🇷
 [API com GraphQL](https://www.youtube.com/watch?v=0WWuJaNSFgk&feature=youtu.be) | Vídeo | 🇧🇷
 [Aprender sobre GraphQL com Lumen](https://github.com/wouerner/aprender-graphql-lumen)  | Artigo | 🇧🇷
 [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062) | Artigo | 🇱🇷
+[Compartilhando dados em uma Arquitetura de Microsserviços usando GraphQL](https://labs.getninjas.com.br/compartilhando-dados-em-uma-arquitetura-de-microsservicos-usando-graphql-35a5aca4a7dc) | Artigo | 🇧🇷 e 🇱🇷
 [Conhecendo o Dataloader — GraphQL](https://medium.com/@Emanuel_G/conhecendo-o-dataloader-graphql-b1395870c64b) | Artigo | 🇧🇷
 [Creating A GraphQL Server With Node.js And Express](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1) | Artigo |  🇱🇷
+[Creating GraphQL Subscriptions in Express](https://scotch.io/bar-talk/creating-graphql-subscriptions-in-express) | Artigo | 🇱🇷
+[Exploring different GraphQL Clients](https://itnext.io/exploring-different-graphql-clients-d1bc69de305f) | Artigo | 🇱🇷
 [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9) | Artigo | 🇱🇷
 [GraphQL caching using Dataloader - Fun Fun Function](https://youtu.be/--AguZ20lLA) | Vídeo | 🇱🇷
 [GraphQL Basics - Fun Fun Function](https://youtu.be/lAJWHHUz8_8) | Vídeo| 🇱🇷
+[GraphQL Binding 2.0: Improved API, schema transforms & automatic codegen](https://blog.graph.cool/graphql-binding-2-0-improved-api-schema-transforms-automatic-codegen-5934cd039db1) | Artigo | 🇱🇷
 [GraphQL Directive Permissions — Authorization Made Easy](https://blog.graph.cool/graphql-directive-permissions-authorization-made-easy-54c076b5368e) | Artigo | 🇱🇷
 [GraphQL Full Course - Novice to Expert](https://youtu.be/ed8SzALpx1Q) | Vídeo | 🇱🇷
 [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d) | Artigo | 🇧🇷
+[GraphQL Story Parte 01: Motivação](https://blog.codecasts.com.br/graphql-story-01-motivacao-ec8ab14b55ca) | Artigo | 🇧🇷
 [GraphQL vs Rest:Pensando de uma forma inovadora](https://medium.com/@juliocesar_44438/graphql-vs-rest-pensando-de-uma-forma-inovadora-a89c0d514a0d) | Artigo | 🇧🇷
+[Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7) | Artigo | 🇧🇷
 [Intro to GraphQL and Apollo](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | Vídeo  | 🇱🇷
 [Introduction to GraphQL](https://graphql.org/learn/) | Documentação Oficial | 🇱🇷
 [More GraphQL - Fun Fun Function](https://youtu.be/RMtq0RCLuzs) | Vídeo | 🇱🇷
