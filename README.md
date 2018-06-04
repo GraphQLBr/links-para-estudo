@@ -6,6 +6,7 @@
 ------- | ------  | ------
 [API com GraphQL](https://www.youtube.com/watch?v=0WWuJaNSFgk&feature=youtu.be) | Vídeo | 🇧🇷
 [Aprender sobre GraphQL com Lumen](https://github.com/wouerner/aprender-graphql-lumen)  | Artigo | 🇧🇷
+[Conhecendo o Dataloader — GraphQL](https://medium.com/@Emanuel_G/conhecendo-o-dataloader-graphql-b1395870c64b) | Artigo | 🇧🇷
 [Creating A GraphQL Server With Node.js And Express](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1) | Artigo |  🇱🇷
 [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9) | Artigo | 🇱🇷
 [GraphQL caching using Dataloader - Fun Fun Function](https://youtu.be/--AguZ20lLA) | Vídeo | 🇱🇷
