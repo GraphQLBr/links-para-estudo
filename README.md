@@ -7,11 +7,13 @@
 [A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/) | Artigo | 🇱🇷
 [API com GraphQL](https://www.youtube.com/watch?v=0WWuJaNSFgk&feature=youtu.be) | Vídeo | 🇧🇷
 [Aprender sobre GraphQL com Lumen](https://github.com/wouerner/aprender-graphql-lumen)  | Artigo | 🇧🇷
+[Building a GraphQL Server with Elixir Backend Tutorial](https://www.howtographql.com/graphql-elixir/0-introduction/) | Artigo | 🇱🇷
 [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062) | Artigo | 🇱🇷
 [Compartilhando dados em uma Arquitetura de Microsserviços usando GraphQL](https://labs.getninjas.com.br/compartilhando-dados-em-uma-arquitetura-de-microsservicos-usando-graphql-35a5aca4a7dc) | Artigo | 🇧🇷 e 🇱🇷
 [Conhecendo o Dataloader — GraphQL](https://medium.com/@Emanuel_G/conhecendo-o-dataloader-graphql-b1395870c64b) | Artigo | 🇧🇷
 [Creating A GraphQL Server With Node.js And Express](https://medium.com/codingthesmartway-com-blog/creating-a-graphql-server-with-node-js-and-express-f6dddc5320e1) | Artigo |  🇱🇷
 [Creating GraphQL Subscriptions in Express](https://scotch.io/bar-talk/creating-graphql-subscriptions-in-express) | Artigo | 🇱🇷
+[ElixirConf 2017 - Live APIs with GraphQL Subscriptions](https://www.youtube.com/watch?v=PEckzwggd78) | Vídeo | 🇱🇷
 [Exploring different GraphQL Clients](https://itnext.io/exploring-different-graphql-clients-d1bc69de305f) | Artigo | 🇱🇷
 [Full Stack Vue with GraphQL & AWS AppSync](https://hackernoon.com/full-stack-vue-with-graphql-aws-appsync-adc5af474dc9) | Artigo | 🇱🇷
 [GraphQL caching using Dataloader - Fun Fun Function](https://youtu.be/--AguZ20lLA) | Vídeo | 🇱🇷
@@ -41,6 +43,7 @@
 ## Conteúdos pagos
  Título | Tipo | Idioma
 ------- | ------ | ------
+[Craft GraphQL APIs in Elixir with Absinthe](https://pragprog.com/book/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe) | Livro | 🇱🇷
 [Criando API'S com Node.js GraphQL, JWT, Sequelize e TS](https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize) | Vídeo | 🇧🇷
 [Criando API'S Modernas com Graphcool e Apollo](https://www.treinaweb.com.br/curso/graphql-criando-apis-modernas-com-graphcool-e-apollo) | Vídeo | 🇧🇷
 [GraphQL: Learning GraphQL with Node.Js](https://www.udemy.com/learning-graphql-with-nodejs/) | Vídeo | 🇱🇷
