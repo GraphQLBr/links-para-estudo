@@ -8,6 +8,7 @@
 [API com GraphQL](https://www.youtube.com/watch?v=0WWuJaNSFgk&feature=youtu.be) | Vídeo | 🇧🇷
 [Aprender sobre GraphQL com Lumen](https://github.com/wouerner/aprender-graphql-lumen)  | Artigo | 🇧🇷
 [Building a GraphQL Server with Elixir Backend Tutorial](https://www.howtographql.com/graphql-elixir/0-introduction/) | Artigo | 🇱🇷
+[Building a GraphQL Server with Ruby Backend Tutorial](https://www.howtographql.com/graphql-ruby/0-introduction/) | Artigo | 🇱🇷
 [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062) | Artigo | 🇱🇷
 [Compartilhando dados em uma Arquitetura de Microsserviços usando GraphQL](https://labs.getninjas.com.br/compartilhando-dados-em-uma-arquitetura-de-microsservicos-usando-graphql-35a5aca4a7dc) | Artigo | 🇧🇷 e 🇱🇷
 [Conhecendo o Dataloader — GraphQL](https://medium.com/@Emanuel_G/conhecendo-o-dataloader-graphql-b1395870c64b) | Artigo | 🇧🇷
