@@ -52,5 +52,6 @@
 [Criando API'S com Node.js GraphQL, JWT, Sequelize e TS](https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize) | Vídeo | 🇧🇷
 [Criando API'S Modernas com Graphcool e Apollo](https://www.treinaweb.com.br/curso/graphql-criando-apis-modernas-com-graphcool-e-apollo) | Vídeo | 🇧🇷
 [GraphQL: Learning GraphQL with Node.Js](https://www.udemy.com/learning-graphql-with-nodejs/) | Vídeo | 🇱🇷
+[The Modern GraphQL Bootcamp (Advanced Node.js)](https://www.udemy.com/graphql-bootcamp/) | Vídeo | 🇱🇷
 ### Como contribuir
 Qualquer um pode adicionar links, apenas dando um dando um [Pull Request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/) editando este arquivo. Ao contribuir manter a organização e adicionar novos links por ordem alfabética pelo título.
