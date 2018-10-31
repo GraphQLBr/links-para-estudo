@@ -35,6 +35,7 @@
 [REST vs. GraphQL](https://medium.com/codingthesmartway-com-blog/rest-vs-graphql-418eac2e3083) | Artigo | 🇱🇷 
 [Tackling User Authorization in GraphQL with AWS AppSync](https://hackernoon.com/tackling-user-authorization-in-graphql-with-aws-appsync-7886aef60b4a) | Artigo | 🇱🇷
 [TC + NodeBR Live #1: O Poder do GraphQL com NodeJS](https://www.youtube.com/watch?v=GU2nu9u7qOA&feature=youtu.be) | Vídeo | 🇧🇷
+[Technical Tuesdays: Using GraphQL, a Ruby on Rails introduction](https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd/) | Artigo | 🇱🇷
 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) | Artigo e Vídeo | 🇱🇷
 [Todo o poder emana do cliente: explorando uma API GraphQL](http://blog.caelum.com.br/todo-o-poder-emana-do-cliente-explorando-uma-api-graphql/) | Artigo | 🇱🇷
 [Tutorial: Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427) | Artigo | 🇱🇷
