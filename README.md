@@ -25,6 +25,7 @@
 [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d) | Artigo | 🇧🇷
 [GraphQL Story Parte 01: Motivação](https://blog.codecasts.com.br/graphql-story-01-motivacao-ec8ab14b55ca) | Artigo | 🇧🇷
 [GraphQL vs Rest:Pensando de uma forma inovadora](https://medium.com/@juliocesar_44438/graphql-vs-rest-pensando-de-uma-forma-inovadora-a89c0d514a0d) | Artigo | 🇧🇷
+[How to integrate GraphQL with Redux in React Native](https://medium.com/netscape/how-to-integrate-graphql-with-redux-in-react-native-c1912bf33120) | Artigo | 🇧🇷
 [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7) | Artigo | 🇧🇷
 [Intro to GraphQL and Apollo](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | Vídeo  | 🇱🇷
 [Introduction to GraphQL](https://graphql.org/learn/) | Documentação Oficial | 🇱🇷
