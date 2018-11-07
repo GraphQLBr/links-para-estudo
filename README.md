@@ -8,6 +8,7 @@
 [API com GraphQL](https://www.youtube.com/watch?v=0WWuJaNSFgk&feature=youtu.be) | Vídeo | 🇧🇷
 [Aprender sobre GraphQL com Lumen](https://github.com/wouerner/aprender-graphql-lumen)  | Artigo | 🇧🇷
 [Building a GraphQL Server with Elixir Backend Tutorial](https://www.howtographql.com/graphql-elixir/0-introduction/) | Artigo | 🇱🇷
+[Building a GraphQL Server with Ruby Backend Tutorial](https://www.howtographql.com/graphql-ruby/0-introduction/) | Artigo | 🇱🇷
 [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062) | Artigo | 🇱🇷
 [Como dar ao cliente total controle sobre os dados de uma API](https://infosimples.com/artigos/graphql-como-dar-ao-cliente-total-controle-sobre-os-dados-de-uma-api) | Artigo | 🇧🇷
 [Compartilhando dados em uma Arquitetura de Microsserviços usando GraphQL](https://labs.getninjas.com.br/compartilhando-dados-em-uma-arquitetura-de-microsservicos-usando-graphql-35a5aca4a7dc) | Artigo | 🇧🇷 e 🇱🇷
@@ -36,11 +37,13 @@
 [Tackling User Authorization in GraphQL with AWS AppSync](https://hackernoon.com/tackling-user-authorization-in-graphql-with-aws-appsync-7886aef60b4a) | Artigo | 🇱🇷
 [TC + NodeBR Live #1: O Poder do GraphQL com NodeJS](https://www.youtube.com/watch?v=GU2nu9u7qOA&feature=youtu.be) | Vídeo | 🇧🇷
 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) | Artigo e Vídeo | 🇱🇷
+[Todo o poder emana do cliente: explorando uma API GraphQL](http://blog.caelum.com.br/todo-o-poder-emana-do-cliente-explorando-uma-api-graphql/) | Artigo | 🇱🇷
 [Tutorial: Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427) | Artigo | 🇱🇷
 [What Is GraphQL? - LevelUpTuts](https://www.youtube.com/watch?v=VjXb3PRL9WI) | Vídeo | 🇱🇷
 [Wrapping a REST API in GraphQL](http://graphql.org/blog/rest-api-graphql-wrapper/) | Artigo | 🇱🇷
 [Weekly Newsletter - Best news, Articles, and Projects about GraphQL, Apollo and more](https://graphqlweekly.com/) | Artigo | 🇱🇷
 [Zero to GraphQL in 30 Minutes – Steven Luscher](https://www.youtube.com/watch?v=UBGzsb2UkeY) | Vídeo | 🇱🇷
+
 ## Conteúdos pagos
  Título | Tipo | Idioma
 ------- | ------ | ------
