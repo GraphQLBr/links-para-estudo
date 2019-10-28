@@ -7,6 +7,7 @@
 [A GraphQL Primer: Why We Need A New Kind Of API (Part 1)](https://www.smashingmagazine.com/2018/01/graphql-primer-new-api-part-1/) | Artigo | 🇱🇷
 [API com GraphQL](https://www.youtube.com/watch?v=0WWuJaNSFgk&feature=youtu.be) | Vídeo | 🇧🇷
 [Aprender sobre GraphQL com Lumen](https://github.com/wouerner/aprender-graphql-lumen)  | Artigo | 🇧🇷
+[Building a GORM/GraphQL App with React and Apollo](http://guides.grails.org/gorm-graphql-with-react-and-apollo/guide/index.html)  | Artigo | 🇱🇷
 [Building a GraphQL Server with Elixir Backend Tutorial](https://www.howtographql.com/graphql-elixir/0-introduction/) | Artigo | 🇱🇷
 [Building a GraphQL Server with Ruby Backend Tutorial](https://www.howtographql.com/graphql-ruby/0-introduction/) | Artigo | 🇱🇷
 [Building AI Enabled GraphQL Applications](https://medium.com/open-graphql/building-ai-enabled-graphql-applications-d7fde3305062) | Artigo | 🇱🇷
