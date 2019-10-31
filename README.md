@@ -28,6 +28,7 @@
 [GraphQL para iniciantes](https://medium.com/trainingcenter/graphql-para-iniciantes-a4cbe6c3da5d) | Artigo | 🇧🇷
 [GraphQL Story Parte 01: Motivação](https://blog.codecasts.com.br/graphql-story-01-motivacao-ec8ab14b55ca) | Artigo | 🇧🇷
 [GraphQL vs Rest:Pensando de uma forma inovadora](https://medium.com/@juliocesar_44438/graphql-vs-rest-pensando-de-uma-forma-inovadora-a89c0d514a0d) | Artigo | 🇧🇷
+[How to integrate GraphQL with Redux in React Native](https://medium.com/netscape/how-to-integrate-graphql-with-redux-in-react-native-c1912bf33120) | Artigo | 🇧🇷
 [Introdução ao GraphQL](https://medium.com/@programadriano/introdu%C3%A7%C3%A3o-ao-graphql-9f09b33550e7) | Artigo | 🇧🇷
 [Intro to GraphQL and Apollo](https://www.udemy.com/introduction-to-graphql-and-apollo-building-modern-apis/) | Vídeo  | 🇱🇷
 [Introduction to GraphQL](https://graphql.org/learn/) | Documentação Oficial | 🇱🇷
@@ -38,6 +39,7 @@
 [REST vs. GraphQL](https://medium.com/codingthesmartway-com-blog/rest-vs-graphql-418eac2e3083) | Artigo | 🇱🇷 
 [Tackling User Authorization in GraphQL with AWS AppSync](https://hackernoon.com/tackling-user-authorization-in-graphql-with-aws-appsync-7886aef60b4a) | Artigo | 🇱🇷
 [TC + NodeBR Live #1: O Poder do GraphQL com NodeJS](https://www.youtube.com/watch?v=GU2nu9u7qOA&feature=youtu.be) | Vídeo | 🇧🇷
+[Technical Tuesdays: Using GraphQL, a Ruby on Rails introduction](https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd/) | Artigo | 🇱🇷
 [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/) | Artigo e Vídeo | 🇱🇷
 [Todo o poder emana do cliente: explorando uma API GraphQL](http://blog.caelum.com.br/todo-o-poder-emana-do-cliente-explorando-uma-api-graphql/) | Artigo | 🇱🇷
 [Tutorial: Building a Realtime GraphQL Server with Subscriptions](https://blog.graph.cool/tutorial-building-a-realtime-graphql-server-with-subscriptions-2758cfc6d427) | Artigo | 🇱🇷
@@ -53,5 +55,6 @@
 [Criando API'S com Node.js GraphQL, JWT, Sequelize e TS](https://www.udemy.com/criando-apis-com-nodejs-graphql-jwt-e-sequelize) | Vídeo | 🇧🇷
 [Criando API'S Modernas com Graphcool e Apollo](https://www.treinaweb.com.br/curso/graphql-criando-apis-modernas-com-graphcool-e-apollo) | Vídeo | 🇧🇷
 [GraphQL: Learning GraphQL with Node.Js](https://www.udemy.com/learning-graphql-with-nodejs/) | Vídeo | 🇱🇷
+[The Modern GraphQL Bootcamp (Advanced Node.js)](https://www.udemy.com/graphql-bootcamp/) | Vídeo | 🇱🇷
 ### Como contribuir
 Qualquer um pode adicionar links, apenas dando um dando um [Pull Request](https://blog.da2k.com.br/2015/02/04/git-e-github-do-clone-ao-pull-request/) editando este arquivo. Ao contribuir manter a organização e adicionar novos links por ordem alfabética pelo título.
